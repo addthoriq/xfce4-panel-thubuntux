@@ -2,12 +2,17 @@
 A Custom Profile for Panel Preferences on Xfce
 
 ## Recruitmen
-Before you use this profile, you must to make sure was installed AppMenu-Plugin.
+1. Before you use this profile, you must to make sure was installed AppMenu-Plugin.
 If you doesnt, you can install with this command:
 ```bash
 sudo apt-get install xfce4-appmenu-plugin
 ```
 After that, you can log out session and log in then.
+
+2. I suggest you to install Plank docker
+```bash
+sudo apt-get install plank
+```
 
 ## Download
 ```bash
